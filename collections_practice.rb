@@ -27,7 +27,9 @@ end
 def kesha_maker(array)
   new_array = []
   array.each do |name|
-    
+    name.split
+  end
+  new_array 
 end
 
 def find_a
