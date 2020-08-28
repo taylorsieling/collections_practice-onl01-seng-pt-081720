@@ -52,7 +52,7 @@ def add_s(array)
     if index == 1
       #{word}
     else
-     #{word + s}
+     #{word.insert}
    end
    new_array << word
   end
