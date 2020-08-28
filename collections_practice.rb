@@ -53,6 +53,7 @@ def add_s(array)
       return
     else
      "#{name} + s"
+   end
   end
   new_array
 end
