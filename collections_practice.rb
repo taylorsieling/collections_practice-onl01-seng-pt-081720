@@ -52,8 +52,9 @@ def add_s(array)
     if index = 2 
       return
     else
-     "#{name} + s"
+     return "#{name} + s"
    end
+   new_array << return
   end
   new_array
 end
