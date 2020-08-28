@@ -52,7 +52,7 @@ def add_s(array)
     if index = 1
       return
     else
-     return "#{name} + s"
+     word + s
    end
    new_array << array
   end
