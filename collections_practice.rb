@@ -30,6 +30,7 @@ def kesha_maker(array)
   array.each do |name|
     new_array << name[2].replace "$"
   end
+end
   new_array 
 end
 
