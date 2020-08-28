@@ -54,7 +54,7 @@ def add_s(array)
     else
      return "#{name} + s"
    end
-   new_array << return
+   new_array << array
   end
   new_array
 end
